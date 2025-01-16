@@ -1,4 +1,3 @@
-# random-mermaid
 flowchart TD
     Start([Start]) --> GenerateNumber[Generate Random Number Between 1 and 100]
     GenerateNumber --> InputGuess[Prompt User for a Guess]
